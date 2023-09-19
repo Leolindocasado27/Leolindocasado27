@@ -1,15 +1,15 @@
-function setup() {
-  createCanvas(600, 600);
-  background("white")
-}
+### Boas vindas ao meu perfil
 
-function draw() {
-  stroke("blue");
-  fill("green")
+ Meu nome é Leonardo Costa
 
-  if(mouseIsPressed){
-   rect(mouseX, mouseY, 20, 35);
-  }
+  - Estou esudando no [Alura](https://cursos.alura.com.br/dashboard)
+  - Estou me desenvolvendo na linguagem JavaScript
+  - Utilizo esse espaço para minha organização e compartilhamento dos meus prjetos desenvolvidos
 
-}
-![download](https://github.com/Leolindocasado27/Leolindocasado27/assets/144119006/8b9ca3b6-bab1-4a36-8aaf-cecb3d6255f7)
+    ### Você pode entrar em contato comigo :mailbox
+
+    leonardo.powala@escola.pr.gov.br
+
+    @leolindocasado27
+
+    ![gifs-de-bom-dia-amor-1](https://github.com/Leolindocasado27/Leolindocasado27/assets/144119006/037b8549-6115-4663-94f7-1680119816fe)
